@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    
+      <Placemark>
+        <name>243168 Southgate 24 Road</name>
+        <description>Price: 849,900</description>
+        <Point>
+          <coordinates>-80.68551,44.05983</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>2548 Bruce Road 3</name>
+        <description>Price: 785,000</description>
+        <Point>
+          <coordinates>-81.23624,44.24518</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>525780 Grey Rd 30</name>
+        <description>Price: 649,999</description>
+        <Point>
+          <coordinates>-80.569828,44.348918</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>1212 Bruce Road 40</name>
+        <description>Price: 534,900</description>
+        <Point>
+          <coordinates>-81.24244,44.37529</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>146 Field Street</name>
+        <description>Price: 749,900</description>
+        <Point>
+          <coordinates>-80.811982,44.135695</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>9898 Baseline Road</name>
+        <description>Price: 349,000</description>
+        <Point>
+          <coordinates>-80.835897,44.004125</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>73313 24-25 SDRD Road</name>
+        <description>Price: 800,000</description>
+        <Point>
+          <coordinates>-80.36099,43.89466</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>343028 CONCESSION 2 NDR</name>
+        <description>Price: 874,900</description>
+        <Point>
+          <coordinates>-80.8219661,44.1986596</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>4253 Bruce Road 3 Road</name>
+        <description>Price: 579,900</description>
+        <Point>
+          <coordinates>-81.30317,44.3858</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>232 Bruce 6 Road</name>
+        <description>Price: 744,500</description>
+        <Point>
+          <coordinates>-81.227757,44.0095058</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>151564 Southgate Sdrd 15 Side Road</name>
+        <description>Price: 849,900</description>
+        <Point>
+          <coordinates>-80.4832517,44.059428</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>316910 Highway 6</name>
+        <description>Price: 499,900</description>
+        <Point>
+          <coordinates>-80.8980037,44.4459796</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>708 Concession 2 Concession</name>
+        <description>Price: 675,000</description>
+        <Point>
+          <coordinates>-81.45117,44.25662</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>111462 Grey Road 14</name>
+        <description>Price: 779,900</description>
+        <Point>
+          <coordinates>-80.533738,44.04923</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>PT LT 8 CON 13 Grey/Bruce Line</name>
+        <description>Price: 599,000</description>
+        <Point>
+          <coordinates>-81.094755,44.412858</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>175 Napolean Street</name>
+        <description>Price: 599,900</description>
+        <Point>
+          <coordinates>-80.521164,44.309458</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>613162 50 Side Road</name>
+        <description>Price: 749,000</description>
+        <Point>
+          <coordinates>-80.4583,44.31562</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>384701 Concession 4 Concession W</name>
+        <description>Price: 549,900</description>
+        <Point>
+          <coordinates>-80.64279,44.23995</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>3072 Bruce Road 1, Road</name>
+        <description>Price: 749,900</description>
+        <Point>
+          <coordinates>-81.3851974,44.2086537</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>344022 North Line</name>
+        <description>Price: 679,900</description>
+        <Point>
+          <coordinates>-80.719553,44.211604</coordinates>
+        </Point>
+      </Placemark>
+  </Document>
+</kml>
